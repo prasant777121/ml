@@ -1,0 +1,17 @@
+country,age,salary,purchased
+france,21,10000,no
+india,11,12000,no
+nepal,nan,13000,no
+india,23,nan,yes
+india,24,14000,yes
+germany,25,16000,nan
+finland,26,17000,yes
+finland,27,nan,no
+nepal,28,18000,no
+portugual,31,13000,no
+arjentina,30,31000,yes
+france,69,12000,yes
+peru,9,10000,nan
+maldives,18,14500,no
+france,21,60000,no
+nepal,nan,nan,
